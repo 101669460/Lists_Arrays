@@ -1,0 +1,11 @@
+C:\Users\Dylan\Desktop\Work\Programming\Lists_Arrays\bin\HPD\Debug\netcoreapp3.1\Lists_Arrays.exe
+C:\Users\Dylan\Desktop\Work\Programming\Lists_Arrays\bin\HPD\Debug\netcoreapp3.1\Lists_Arrays.deps.json
+C:\Users\Dylan\Desktop\Work\Programming\Lists_Arrays\bin\HPD\Debug\netcoreapp3.1\Lists_Arrays.runtimeconfig.json
+C:\Users\Dylan\Desktop\Work\Programming\Lists_Arrays\bin\HPD\Debug\netcoreapp3.1\Lists_Arrays.runtimeconfig.dev.json
+C:\Users\Dylan\Desktop\Work\Programming\Lists_Arrays\bin\HPD\Debug\netcoreapp3.1\Lists_Arrays.dll
+C:\Users\Dylan\Desktop\Work\Programming\Lists_Arrays\bin\HPD\Debug\netcoreapp3.1\Lists_Arrays.pdb
+C:\Users\Dylan\Desktop\Work\Programming\Lists_Arrays\obj\HPD\Debug\netcoreapp3.1\Lists_Arrays.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\Work\Programming\Lists_Arrays\obj\HPD\Debug\netcoreapp3.1\Lists_Arrays.AssemblyInfoInputs.cache
+C:\Users\Dylan\Desktop\Work\Programming\Lists_Arrays\obj\HPD\Debug\netcoreapp3.1\Lists_Arrays.AssemblyInfo.cs
+C:\Users\Dylan\Desktop\Work\Programming\Lists_Arrays\obj\HPD\Debug\netcoreapp3.1\Lists_Arrays.dll
+C:\Users\Dylan\Desktop\Work\Programming\Lists_Arrays\obj\HPD\Debug\netcoreapp3.1\Lists_Arrays.pdb
